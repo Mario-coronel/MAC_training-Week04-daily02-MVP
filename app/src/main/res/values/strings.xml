@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP example</string>
+    <string name="searchTV">How many do you want to fetch?!:</string>
+    <string name="getUsers">GET RANDOM USERS</string>
+</resources>
